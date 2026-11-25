@@ -24,7 +24,7 @@ Researching efficient AI systems and hardware-aware optimization.
 - HBM3 near-bank processing architecture.
 - **83.1% less channel traffic · 3.85× modeled speedup** vs. Dense D8.
 
-### [RNGD NPU Profiling]()
+### [RNGD NPU Profiling](https://github.com/kw78999/262RCOSE45700)
 *PyTorch Eager vs. Compile · Ongoing*
 - Inference latency, compilation overhead & break-even analysis.
 - Multi-PE fusion and performance trade-offs.
